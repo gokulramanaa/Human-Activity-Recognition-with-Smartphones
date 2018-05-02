@@ -1,0 +1,3 @@
+Our team divided the project tasks as described below. 
+
+Abhilash identified the dataset, performed the exploratory data analysis, ,worked on the Presentation, and helped with the Python code for classification. Adarsh worked on the R code for classification algorithms, and worked on the presentation. Gokul worked on the Python code for the classification algorithms, and helped with the R code for Neural Networks.
