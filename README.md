@@ -9,3 +9,19 @@ A video of the experiment including an example of the 6 recorded activities with
 
 ## For more information (Dataset link): 
 https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones 
+
+
+We are attempting to use Naive Bayes, Logistic Regression (with Ridge and Lasso), and Neural Nets in R code and python as well to compare the performance. 
+
+## Project results and Presentation can be found: 
+Human-Activity-Recognition-with-Smartphones/Human Activity Recognitionv2.1.pdf 
+
+## Pyhton classification algorithms: 
+Python_ClassificationAlgorithms_Code.py 
+
+## R classification algorithms: 
+ClassificationAlgorithms.R 
+
+## Exploratory Analysis for python and R: 
+ExploratoryAnalysis_Python_code.py 
+ExploratoryAnalysis_R.R 
